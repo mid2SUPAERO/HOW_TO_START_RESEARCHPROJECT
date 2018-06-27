@@ -1,5 +1,8 @@
 # test
 
+This work is a part of an intensive coding party (July 2016, ICA)
+<div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/team.jpg" width="90%"/></div>
+
 Create your repository (test here)
 
 Create a README.md for describing your work
