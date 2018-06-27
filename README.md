@@ -1,6 +1,6 @@
 # test
 
-This work is a part of an intensive coding party (July 2016, ICA)
+This work is the deposit for 2018'students
 <div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/team.jpg" width="90%"/></div>
 
 Create your repository (test here)
