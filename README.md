@@ -1,6 +1,6 @@
 # How to start a research project
 
-This work is the deposit for 2019'students
+This page is for the 2019'students
 <div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/Team2.jpg" width="90%"/></div>
 
 Create your repository (test here)
