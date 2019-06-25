@@ -1,6 +1,9 @@
 # How to start a research project
 
 This page is for the 2019'students
+<div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/Team2019.jpg" width="90%"/></div>
+
+Last year project
 <div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/Team2.jpg" width="90%"/></div>
 
 Create your repository (test here)
