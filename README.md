@@ -11,7 +11,7 @@ Create your repository (test here)
 Create a README.md for describing your work
 
 Then upload your codes/presentation[editable]/Report_or_Paper[editable]
-see in the following link an *example*
+see in the following link an *example* NOW OVERLEAF !!!
 
 https://fr.sharelatex.com/blog/2015/02/10/shareLaTeX-github-sync.html
 
@@ -20,4 +20,10 @@ Please also put a link on a notebook viewer or livescript html for your tutorial
 google *online github guides*:
 
 https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies
+
+
+Replication of results
+By Raphael T. Haftka et al
+
+https://link.springer.com/article/10.1007/s00158-019-02298-4
 
