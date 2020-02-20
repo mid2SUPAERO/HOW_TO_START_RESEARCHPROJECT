@@ -18,6 +18,8 @@ https://fr.sharelatex.com/blog/2015/02/10/shareLaTeX-github-sync.html
 Please also put a link on a notebook viewer or livescript html for your tutorials/demos
 
 google *online github guides*:
+Lesson for git 	
+https://coderefinery.github.io/git-intro/
 
 https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies
 
@@ -29,5 +31,8 @@ https://link.springer.com/article/10.1007/s00158-019-02298-4
 
 Nice plots
 
-Matlab and Python
+Matlab and Python and Julia
+
+https://julia.quantecon.org/more_julia/optimization_solver_packages.html
+
 
