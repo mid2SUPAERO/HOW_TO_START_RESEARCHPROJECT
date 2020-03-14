@@ -1,6 +1,15 @@
 # How to start a research project
 
-This page is for the 2019'students
+This page is for the 2020'students
+
+Given references (previous students) on Github MID2SUPAERO
+
+https://github.com/mid2SUPAERO
+
+Online references (Google Scholar)
+
+https://scholar.google.com
+
 <div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/Team2019.jpg" width="90%"/></div>
 
 Last year project
