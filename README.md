@@ -8,7 +8,7 @@ HOW TO FIND THE STARTING IDEA
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/IDEA.pdf" width="90%"/></div>
+https://github.com/mid2SUPAERO/HOW_TO_START_RESEARCHPROJECT/blob/master/IDEA.pdf
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
