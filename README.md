@@ -4,6 +4,14 @@ This page is for the 2020'students
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+HOW TO FIND THE STARTING IDEA
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<div style="text-align:center"><img src ="https://github.com/mid2SUPAERO/test/blob/master/IDEA.pdf" width="90%"/></div>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Search by keywords
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
