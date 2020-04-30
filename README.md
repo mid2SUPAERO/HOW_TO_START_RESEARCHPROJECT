@@ -7,13 +7,13 @@ This page is for the 2020'students
 ## HOW TO FIND THE STARTING IDEA
 
 
-
 https://github.com/mid2SUPAERO/HOW_TO_START_RESEARCHPROJECT/blob/master/IDEA.pdf
 
+## HOW TO MAKE A PRESENTATION, WRITE YOUR REPORT OR A SCIENTIFIC PAPER
 
+https://github.com/mid2SUPAERO/HOW_TO_START_RESEARCHPROJECT/blob/master/HOW_TO.compressed.pdf
 
 ## Search by keywords
-
 
 
 given references (previous students) on Github MID2SUPAERO
