@@ -13,6 +13,9 @@ https://github.com/mid2SUPAERO/HOW_TO_START_RESEARCHPROJECT/blob/master/IDEA.pdf
 
 https://github.com/mid2SUPAERO/HOW_TO_START_RESEARCHPROJECT/blob/master/HOW_TO.compressed.pdf
 
+http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf
+
+
 ## Search by keywords
 
 
