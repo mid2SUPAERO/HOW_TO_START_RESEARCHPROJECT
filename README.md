@@ -15,6 +15,8 @@ https://github.com/mid2SUPAERO/HOW_TO_START_RESEARCHPROJECT/blob/master/HOW_TO.c
 
 http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf
 
+https://www.researchgate.net/profile/Vinh-Phu-Nguyen/publication/339630885_How_to_effortlessly_write_a_high_quality_scientific_paper_in_the_field_of_computational_engineering_and_sciences/links/61a57f0f8c253c45f6978462/How-to-effortlessly-write-a-high-quality-scientific-paper-in-the-field-of-computational-engineering-and-sciences.pdf
+
 
 ## Search by keywords
 
